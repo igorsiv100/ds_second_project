@@ -24,3 +24,6 @@ Thumbs.db  # Windows
 
 # Секреты
 .env
+
+# Папка с временными бэкапами
+.ipynb_checkpoints/
