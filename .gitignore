@@ -27,3 +27,6 @@ Thumbs.db  # Windows
 
 # Папка с временными бэкапами
 .ipynb_checkpoints/
+
+# Файл с комментами ревьюера
+Second_mudule_project_Safonov_I_V (with comments).ipynb
